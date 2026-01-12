@@ -1,0 +1,12 @@
+[submodule "quanttide-tutorial-of-data-engineering"]
+	path = quanttide-tutorial-of-data-engineering
+	url = git@github.com:quanttide/quanttide-tutorial-of-data-engineering.git
+[submodule "quanttide-handbook-of-data-engineering"]
+	path = quanttide-handbook-of-data-engineering
+	url = git@github.com:quanttide/quanttide-handbook-of-data-engineering.git
+[submodule "qtcloud-data"]
+	path = qtcloud-data
+	url = git@github.com:quanttide/qtcloud-data.git
+[submodule "quanttide-specification-of-data-engineering"]
+	path = quanttide-specification-of-data-engineering
+	url = git@github.com:quanttide/quanttide-specification-of-data-engineering.git
