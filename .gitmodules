@@ -10,3 +10,15 @@
 [submodule "qtcloud-data"]
 	path = src/qtcloud-data
 	url = https://github.com/quanttide/qtcloud-data.git
+[submodule "docs/tutorial"]
+	path = docs/tutorial
+	url = https://github.com/quanttide/quanttide-tutorial-of-data-engineering.git
+[submodule "src/qtcloud-data"]
+	path = src/qtcloud-data
+	url = https://github.com/quanttide/qtcloud-data.git
+[submodule "docs/specification"]
+	path = docs/specification
+	url = https://github.com/quanttide/quanttide-specification-of-data-engineering.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-data-engineering.git
