@@ -28,3 +28,9 @@
 [submodule "docs/alternative"]
 	path = docs/alternative
 	url = https://github.com/quanttide/quanttide-alternative-of-data-engineering.git
+[submodule "examples/quanttide-example-of-data-engineering"]
+	path = examples/quanttide-example-of-data-engineering
+	url = https://github.com/quanttide/quanttide-example-of-data-engineering.git
+[submodule "examples/quanttide-example-of-big-data"]
+	path = examples/quanttide-example-of-big-data
+	url = https://github.com/quanttide/quanttide-example-of-big-data.git

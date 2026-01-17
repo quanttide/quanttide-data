@@ -7,17 +7,24 @@ quanttide-data/
 ├── docs/                    # 文档类项目
 │   ├── tutorial/           # 数据工程教程
 │   ├── handbook/           # 数据工程手册
+│   ├── alternative/        # 备选方案文档
 │   └── specification/      # 数据工程标准
-└── src/                     # 源代码类项目
-    └── qtcloud-data/       # 数据云
+├── src/                     # 源代码类项目
+│   └── qtcloud-data/       # 数据云
+└── examples/                # 示例项目
+    ├── quanttide-example-of-data-engineering/  # 数据工程示例
+    └── quanttide-example-of-big-data/         # 大数据示例
 ```
 
 ## 子项目
 
 - **docs/tutorial** - 数据工程教程
 - **docs/handbook** - 数据工程手册
+- **docs/alternative** - 备选方案文档
 - **docs/specification** - 数据工程标准
 - **src/qtcloud-data** - 数据云
+- **examples/quanttide-example-of-data-engineering** - 数据工程示例
+- **examples/quanttide-example-of-big-data** - 大数据示例
 
 ## 快速开始
 
