@@ -8,7 +8,8 @@ quanttide-data/
 │   ├── tutorial/           # 数据工程教程
 │   ├── handbook/           # 数据工程手册
 │   ├── alternative/        # 数据工程竞品
-│   └── specification/      # 数据工程标准
+│   ├── specification/      # 数据工程标准
+│   └── profile/            # 数据工程画像
 ├── src/                     # 源代码类项目
 │   ├── qtcloud-data/       # 数据云
 │   └── toolkit/            # 数据工程工具箱
@@ -25,6 +26,7 @@ quanttide-data/
 - **docs/handbook** - 数据工程手册
 - **docs/alternative** - 备选方案文档
 - **docs/specification** - 数据工程标准
+- **docs/profile** - 数据工程画像
 - **src/qtcloud-data** - 数据云
 - **src/toolkit** - 数据工具包（Python/Flutter/Django SDK）
 - **examples/quanttide-example-of-data-engineering** - 数据工程示例

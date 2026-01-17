@@ -40,3 +40,6 @@
 [submodule "tests/fixtures"]
 	path = tests/fixtures
 	url = https://github.com/quanttide/quanttide-data-fixtures.git
+[submodule "docs/profile"]
+	path = docs/profile
+	url = https://github.com/quanttide/quanttide-profile-of-data-engineering.git
