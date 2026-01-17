@@ -11,7 +11,7 @@ quanttide-data/
 │   └── specification/      # 数据工程标准
 ├── src/                     # 源代码类项目
 │   ├── qtcloud-data/       # 数据云
-│   └── toolkit/            # 数据工具包（Python SDK）
+│   └── toolkit/            # 数据工程工具箱
 └── examples/                # 示例类项目
     ├── quanttide-example-of-data-engineering/  # 数据工程示例
     └── quanttide-example-of-big-data/         # 大数据示例
