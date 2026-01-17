@@ -24,7 +24,7 @@ quanttide-data/
 - **docs/alternative** - 备选方案文档
 - **docs/specification** - 数据工程标准
 - **src/qtcloud-data** - 数据云
-- **src/toolkit** - 数据工具包（Python SDK）
+- **src/toolkit** - 数据工具包（Python/Flutter/Django SDK）
 - **examples/quanttide-example-of-data-engineering** - 数据工程示例
 - **examples/quanttide-example-of-big-data** - 大数据示例
 
