@@ -37,3 +37,6 @@
 [submodule "src/toolkit"]
 	path = src/toolkit
 	url = https://github.com/quanttide/quanttide-data-toolkit.git
+[submodule "tests/fixtures"]
+	path = tests/fixtures
+	url = https://github.com/quanttide/quanttide-data-fixtures.git

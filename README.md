@@ -12,9 +12,11 @@ quanttide-data/
 ├── src/                     # 源代码类项目
 │   ├── qtcloud-data/       # 数据云
 │   └── toolkit/            # 数据工程工具箱
-└── examples/                # 示例类项目
-    ├── quanttide-example-of-data-engineering/  # 数据工程示例
-    └── quanttide-example-of-big-data/         # 大数据示例
+├── examples/                # 示例类项目
+│   ├── quanttide-example-of-data-engineering/  # 数据工程示例
+│   └── quanttide-example-of-big-data/         # 大数据示例
+└── tests/                   # 测试类项目
+    └── fixtures/           # 测试数据集
 ```
 
 ## 子项目
@@ -27,6 +29,7 @@ quanttide-data/
 - **src/toolkit** - 数据工具包（Python/Flutter/Django SDK）
 - **examples/quanttide-example-of-data-engineering** - 数据工程示例
 - **examples/quanttide-example-of-big-data** - 大数据示例
+- **tests/fixtures** - 测试数据集
 
 ## 快速开始
 
