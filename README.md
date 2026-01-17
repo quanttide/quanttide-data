@@ -9,7 +9,7 @@ quanttide-data/
 │   ├── handbook/           # 数据工程手册
 │   ├── alternative/        # 数据工程竞品
 │   ├── specification/      # 数据工程标准
-│   └── profile/            # 数据工程画像
+│   └── profile/            # 数据工程档案
 ├── src/                     # 源代码类项目
 │   ├── qtcloud-data/       # 数据云
 │   └── toolkit/            # 数据工程工具箱
