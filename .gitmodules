@@ -25,3 +25,6 @@
 [submodule "docs/report"]
 	path = docs/report
 	url = https://github.com/quanttide/quanttide-report-of-data-engineering.git
+[submodule "docs/alternative"]
+	path = docs/alternative
+	url = https://github.com/quanttide/quanttide-alternative-of-data-engineering.git
