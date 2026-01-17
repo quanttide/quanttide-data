@@ -34,3 +34,6 @@
 [submodule "examples/quanttide-example-of-big-data"]
 	path = examples/quanttide-example-of-big-data
 	url = https://github.com/quanttide/quanttide-example-of-big-data.git
+[submodule "src/toolkit"]
+	path = src/toolkit
+	url = https://github.com/quanttide/quanttide-data-toolkit.git
