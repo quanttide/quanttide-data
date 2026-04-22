@@ -8,7 +8,7 @@
 	path = docs/specification
 	url = https://github.com/quanttide/quanttide-specification-of-data-engineering.git
 [submodule "src/qtcloud-data"]
-	path = src/qtcloud-data
+	path = apps/qtcloud-data
 	url = https://github.com/quanttide/qtcloud-data.git
 [submodule "docs/report"]
 	path = docs/report
