@@ -28,3 +28,6 @@
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-data-engineering.git
+[submodule "docs/context"]
+	path = docs/context
+	url = https://github.com/quanttide/quanttide-context-of-data-engineering.git
