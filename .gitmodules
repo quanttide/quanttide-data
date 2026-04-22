@@ -19,9 +19,6 @@
 [submodule "examples/quanttide-example-of-big-data"]
 	path = examples/big-data
 	url = https://github.com/quanttide/quanttide-example-of-big-data.git
-[submodule "docs/profile"]
-	path = docs/profile
-	url = https://github.com/quanttide/quanttide-profile-of-data-engineering.git
 [submodule "packages/toolkit"]
 	path = packages/toolkit
 	url = https://github.com/quanttide/quanttide-data-toolkit.git
