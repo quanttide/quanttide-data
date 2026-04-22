@@ -22,9 +22,9 @@
 [submodule "docs/profile"]
 	path = docs/profile
 	url = https://github.com/quanttide/quanttide-profile-of-data-engineering.git
-[submodule "docs/gallery"]
-	path = docs/gallery
-	url = https://github.com/quanttide/quanttide-gallery-of-data-engineering.git
 [submodule "packages/toolkit"]
 	path = packages/toolkit
 	url = https://github.com/quanttide/quanttide-data-toolkit.git
+[submodule "docs/gallery"]
+	path = docs/gallery
+	url = https://github.com/quanttide/quanttide-gallery-of-data-engineering.git
