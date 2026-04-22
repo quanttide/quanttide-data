@@ -31,3 +31,6 @@
 [submodule "docs/context"]
 	path = docs/context
 	url = https://github.com/quanttide/quanttide-context-of-data-engineering.git
+[submodule "docs/archive"]
+	path = docs/archive
+	url = https://github.com/quanttide/quanttide-archive-of-data-engineering.git
