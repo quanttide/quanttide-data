@@ -5,7 +5,27 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.0.1] - 2025-03-04
+## [0.0.2] - 2026-04-22
+
+### Added
+- Gallery submodule for data engineering examples
+- Context submodule for competitor research
+- Archive submodule for historical records
+
+### Changed
+- Moved toolkit submodule from `src/` to `packages/`
+- Renamed `src/` directory to `apps/`
+- Renamed example directories: removed `quanttide-example-of-` prefix
+
+### Removed
+- Alternative submodule
+- Fixtures submodule
+- `tests/conftest.py`
+
+### Fixed
+- Cleaned up duplicate entries in `.gitmodules`
+
+## [0.0.1] - 2026-03-04
 
 ### Added
 - Initial release
