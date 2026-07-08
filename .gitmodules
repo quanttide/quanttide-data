@@ -11,7 +11,7 @@
 	path = apps/qtcloud-data
 	url = https://github.com/quanttide/qtcloud-data.git
 [submodule "docs/report"]
-	path = docs/report
+	path = data/report
 	url = https://github.com/quanttide/quanttide-report-of-data-engineering.git
 [submodule "examples/quanttide-example-of-data-engineering"]
 	path = examples/data-engineering
@@ -26,11 +26,17 @@
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-data-engineering.git
 [submodule "docs/context"]
-	path = docs/context
+	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-data-engineering.git
 [submodule "docs/archive"]
-	path = docs/archive
+	path = data/archive
 	url = https://github.com/quanttide/quanttide-archive-of-data-engineering.git
 [submodule "docs/essay"]
 	path = docs/essay
 	url = https://github.com/quanttide/quanttide-essay-of-data-engineering.git
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/quanttide/quanttide-intention-of-data-engineering.git
+[submodule "data/library"]
+	path = data/library
+	url = https://github.com/quanttide/quanttide-library-of-data-engineering.git
