@@ -13,9 +13,6 @@
 [submodule "docs/report"]
 	path = data/report
 	url = https://github.com/quanttide/quanttide-report-of-data-engineering.git
-[submodule "packages/toolkit"]
-	path = packages/toolkit
-	url = https://github.com/quanttide/quanttide-data-toolkit.git
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-data-engineering.git
@@ -40,3 +37,12 @@
 [submodule "examples/default"]
 	path = examples/default
 	url = https://github.com/quanttide/quanttide-laboratory-of-data-engineering.git
+[submodule "packages/quanttide-data-toolkit"]
+	path = packages/quanttide-data-toolkit
+	url = https://github.com/quanttide/quanttide-data-toolkit.git
+[submodule "packages/quanttide-toolkit"]
+	path = packages/quanttide-toolkit
+	url = https://github.com/quanttide/quanttide-toolkit.git
+[submodule "packages/quanttide-agent-toolkit"]
+	path = packages/quanttide-agent-toolkit
+	url = https://github.com/quanttide/quanttide-agent-toolkit.git
