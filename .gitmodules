@@ -49,3 +49,6 @@
 [submodule "examples/company"]
 	path = examples/company
 	url = https://github.com/quanttide/quanttide-laboratory-of-business-entity.git
+[submodule "data/profile"]
+	path = data/profile
+	url = https://github.com/quanttide/quanttide-profile-of-data-engineering.git
