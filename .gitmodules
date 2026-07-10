@@ -52,3 +52,6 @@
 [submodule "data/profile"]
 	path = data/profile
 	url = https://github.com/quanttide/quanttide-profile-of-data-engineering.git
+[submodule "data/insight"]
+	path = data/insight
+	url = https://github.com/quanttide/quanttide-insight-of-data-engineering.git
