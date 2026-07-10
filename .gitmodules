@@ -67,3 +67,6 @@
 [submodule "docs/bylaw"]
 	path = docs/bylaw
 	url = https://github.com/quanttide/quanttide-bylaw-of-data-engineering.git
+[submodule "apps/qtdata"]
+	path = apps/qtdata
+	url = https://github.com/quanttide/qtdata.git
