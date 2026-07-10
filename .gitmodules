@@ -64,3 +64,6 @@
 [submodule "data/history"]
 	path = data/history
 	url = https://github.com/quanttide/quanttide-history-of-data-engineering.git
+[submodule "docs/bylaw"]
+	path = docs/bylaw
+	url = https://github.com/quanttide/quanttide-bylaw-of-data-engineering.git
