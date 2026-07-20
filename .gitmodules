@@ -94,3 +94,7 @@
 	path = apps/qtdata
 	url = https://github.com/quanttide/qtdata.git
 	branch = main
+[submodule "apps/qtclass"]
+	path = apps/qtclass
+	url = https://github.com/quanttide/qtclass.git
+	branch = main
