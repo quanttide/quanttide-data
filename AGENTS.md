@@ -1,18 +1,19 @@
 # Agent Instructions
 
-## 提交规则
+本文件为 AI Agent 提供本仓库的特殊文件索引。
 
-每次 commit 以后自动 push。
+## 关键文档
 
-## 文档边界
+| 文档 | 用途 |
+|------|------|
+| [README.md](README.md) | 项目定位、子模块介绍、文档边界 |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | 贡献指南、提交规则、子模块提交流程 |
+| [STATUS.md](STATUS.md) | 各子模块最新版本状态 |
+| [CHANGELOG.md](CHANGELOG.md) | 版本变更记录 |
+| [.gitmodules](.gitmodules) | 子模块注册与 URL 配置 |
 
-本仓库涉及两类文档，分工不同：
+## AI 技能
 
-| 类型 | 位置 | 角色 | 回答的问题 |
-|---|---|---|---|
-| **spec（规范）** | `docs/specification/` | 结构与格式 | 长什么样 |
-| **bylaw（章程）** | `docs/bylaw/` | 规则与治理 | 必须做什么 |
-
-- spec 定义目录结构、文件格式、字段定义、命名约定
-- bylaw 定义流程要求、质量约束、变更规则、跨领域边界
-- 两者不重复，各自回答不同层面的问题
+| 技能 | 位置 | 用途 |
+|------|------|------|
+| qtcloud-devops | `.agents/skills/qtcloud-devops/SKILL.md` | DevOps 流程：子模块管理、构建、测试、发布 |
