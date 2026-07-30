@@ -15,23 +15,56 @@
 - bylaw 定义流程要求、质量约束、变更规则、跨领域边界
 - 两者不重复，各自回答不同层面的问题
 
-## 快速开始
+## 子模块
 
-```bash
-git clone --recurse-submodules https://github.com/quanttide/quanttide-data.git
-```
+### apps/ — 应用
 
-详细的环境配置、提交流程和子模块管理见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+| 子模块 | 说明 |
+|--------|------|
+| `qtcloud-data` | 数据云 CLI，封装数据需求文档（DRD）流程 |
+| `qtdata` | 数据工程工具链：CLI + Provider + Studio |
 
-## 构建
+### data/ — 数据仓库
 
-```bash
-# 查看所有可用命令
-make help
+| 子模块 | 说明 |
+|--------|------|
+| `archive` | 归档数据 |
+| `brochure` | 宣介材料 |
+| `context` | 上下文资料 |
+| `history` | 历史记录 |
+| `insight` | 洞察分析 |
+| `intention` | 意图与规划 |
+| `journal` | 工作日志 |
+| `library` | 知识库 |
+| `profile` | 画像档案 |
+| `report` | 报告 |
+| `roadmap` | 路线图 |
 
-# 运行测试
-make test
-```
+### docs/ — 文档
+
+| 子模块 | 说明 |
+|--------|------|
+| `bylaw` | 数据工程章程（规则与治理） |
+| `essay` | 数据工程随笔 |
+| `gallery` | 数据工程案例库 |
+| `handbook` | 数据工程手册 |
+| `specification` | 数据工程规范（结构与格式） |
+| `tutorial` | 数据工程教程 |
+
+### examples/ — 实验室
+
+| 子模块 | 说明 |
+|--------|------|
+| `company` | 商业实体实验室 |
+| `default` | 实验室入口（实验性/原型项目） |
+
+### packages/ — 工具包
+
+| 子模块 | 说明 |
+|--------|------|
+| `quanttide-agent-toolkit` | AI Agent 工具包 |
+| `quanttide-data-toolkit` | 数据工程工具包（Dart/Flutter SDK） |
+| `quanttide-toolkit` | 通用工具包 |
 
 ## 相关链接
 
