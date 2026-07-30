@@ -9,27 +9,27 @@
 - `qtcloud-data` — 数据云 CLI，封装数据需求文档（DRD）流程
 - `qtdata` — 数据工程工具链：CLI + Provider + Studio
 
-### data/ — 数据仓库
+### data/ — 陈述性记忆
 
-- `archive` — 归档数据
-- `brochure` — 宣介材料
-- `context` — 上下文资料
-- `history` — 历史记录
-- `insight` — 洞察分析
-- `intention` — 意图与规划
-- `journal` — 工作日志
-- `library` — 知识库
-- `profile` — 画像档案
+- `archive` — 归档
+- `brochure` — 宣传册
+- `context` — 语境
+- `history` — 历史
+- `insight` — 洞察
+- `intention` — 意图
+- `journal` — 日志
+- `library` — 图书馆
+- `profile` — 档案
 - `report` — 报告
 - `roadmap` — 路线图
 
-### docs/ — 文档
+### docs/ — 程序性记忆
 
 - `bylaw` — 数据工程章程：流程要求、质量约束、变更规则（必须做什么）
 - `essay` — 数据工程随笔
-- `gallery` — 数据工程案例库
+- `gallery` — 数据工程案例
 - `handbook` — 数据工程手册
-- `specification` — 数据工程规范：目录结构、文件格式、字段定义、命名约定（长什么样）
+- `specification` — 数据工程标准：目录结构、文件格式、字段定义、命名约定（长什么样）
 - `tutorial` — 数据工程教程
 
 ### examples/ — 实验室
