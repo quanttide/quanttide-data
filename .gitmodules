@@ -1,100 +1,100 @@
 [submodule "docs/tutorial"]
 	path = docs/tutorial
-	url = git@github.com:quanttide/quanttide-tutorial-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-tutorial-of-data-engineering.git
 	branch = main
 [submodule "docs/handbook"]
 	path = docs/handbook
-	url = git@github.com:quanttide/quanttide-handbook-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-handbook-of-data-engineering.git
 	branch = main
 [submodule "docs/specification"]
 	path = docs/specification
-	url = git@github.com:quanttide/quanttide-specification-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-specification-of-data-engineering.git
 	branch = main
 [submodule "src/qtcloud-data"]
 	path = apps/qtcloud-data
-	url = git@github.com:quanttide/qtcloud-data.git
+	url = https://github.com/quanttide/qtcloud-data.git
 	branch = main
 [submodule "docs/report"]
 	path = data/report
-	url = git@github.com:quanttide/quanttide-report-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-report-of-data-engineering.git
 	branch = main
 [submodule "docs/gallery"]
 	path = docs/gallery
-	url = git@github.com:quanttide/quanttide-gallery-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-gallery-of-data-engineering.git
 	branch = main
 [submodule "docs/context"]
 	path = data/context
-	url = git@github.com:quanttide/quanttide-context-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-context-of-data-engineering.git
 	branch = main
 [submodule "docs/archive"]
 	path = data/archive
-	url = git@github.com:quanttide/quanttide-archive-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-archive-of-data-engineering.git
 	branch = main
 [submodule "docs/essay"]
 	path = docs/essay
-	url = git@github.com:quanttide/quanttide-essay-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-essay-of-data-engineering.git
 	branch = main
 [submodule "data/intention"]
 	path = data/intention
-	url = git@github.com:quanttide/quanttide-intention-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-intention-of-data-engineering.git
 	branch = main
 [submodule "data/library"]
 	path = data/library
-	url = git@github.com:quanttide/quanttide-library-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-library-of-data-engineering.git
 	branch = main
 [submodule "data/journal"]
 	path = data/journal
-	url = git@github.com:quanttide/quanttide-journal-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-journal-of-data-engineering.git
 	branch = main
 [submodule "examples/default"]
 	path = examples/default
-	url = git@github.com:quanttide/quanttide-laboratory-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-laboratory-of-data-engineering.git
 	branch = main
 [submodule "packages/quanttide-data-toolkit"]
 	path = packages/quanttide-data-toolkit
-	url = git@github.com:quanttide/quanttide-data-toolkit.git
+	url = https://github.com/quanttide/quanttide-data-toolkit.git
 	branch = main
 [submodule "packages/quanttide-toolkit"]
 	path = packages/quanttide-toolkit
-	url = git@github.com:quanttide/quanttide-toolkit.git
+	url = https://github.com/quanttide/quanttide-toolkit.git
 	branch = main
 [submodule "packages/quanttide-agent-toolkit"]
 	path = packages/quanttide-agent-toolkit
-	url = git@github.com:quanttide/quanttide-agent-toolkit.git
+	url = https://github.com/quanttide/quanttide-agent-toolkit.git
 	branch = main
 [submodule "examples/company"]
 	path = examples/company
-	url = git@github.com:quanttide/quanttide-laboratory-of-business-entity.git
+	url = https://github.com/quanttide/quanttide-laboratory-of-business-entity.git
 	branch = main
 [submodule "data/profile"]
 	path = data/profile
-	url = git@github.com:quanttide/quanttide-profile-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-profile-of-data-engineering.git
 	branch = main
 [submodule "data/insight"]
 	path = data/insight
-	url = git@github.com:quanttide/quanttide-insight-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-insight-of-data-engineering.git
 	branch = main
 [submodule "data/roadmap"]
 	path = data/roadmap
-	url = git@github.com:quanttide/quanttide-roadmap-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-roadmap-of-data-engineering.git
 	branch = main
 [submodule "data/brochure"]
 	path = data/brochure
-	url = git@github.com:quanttide/quanttide-brochure-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-brochure-of-data-engineering.git
 	branch = main
 [submodule "data/history"]
 	path = data/history
-	url = git@github.com:quanttide/quanttide-history-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-history-of-data-engineering.git
 	branch = main
 [submodule "docs/bylaw"]
 	path = docs/bylaw
-	url = git@github.com:quanttide/quanttide-bylaw-of-data-engineering.git
+	url = https://github.com/quanttide/quanttide-bylaw-of-data-engineering.git
 	branch = main
 [submodule "apps/qtdata"]
 	path = apps/qtdata
-	url = git@github.com:quanttide/qtdata.git
+	url = https://github.com/quanttide/qtdata.git
 	branch = main
 [submodule "apps/qtclass"]
 	path = apps/qtclass
-	url = git@github.com:quanttide/qtclass.git
+	url = https://github.com/quanttide/qtclass.git
 	branch = main
