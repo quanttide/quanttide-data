@@ -122,7 +122,7 @@ qtcloud-devops code audit --json | qtcloud-devops plan todo-from-audit
 
 ```sh
 # 1. 预检
-qtcloud-devops release audit -v v0.2.0
+qtcloud-devops release status
 
 # 2. 发布
 qtcloud-devops release publish -v v0.2.0 -y
@@ -133,7 +133,7 @@ qtcloud-devops release status
 
 ## 注意事项
 
-- 发布前必须通过 `release audit` 预检，否则 `publish` 会拒绝执行
+- 发布前建议运行 `release status` 预检版本状态；`publish` 内部自带校验，不强制要求 `release audit`
 - `code audit` 应在每次提交前运行，确保子模块同步和代码质量
 - `plan doctor` 可自动修复 ROADMAP.md 和 TODO.md 的格式问题
 - `plan todo-from-audit` / `roadmap-from-audit` 依赖 `code audit --json` 的输出，通过 stdin 管道传入
