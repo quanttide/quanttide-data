@@ -11,9 +11,3 @@
 | [STATUS.md](STATUS.md) | 各子模块最新版本状态 |
 | [CHANGELOG.md](CHANGELOG.md) | 版本变更记录 |
 | [.gitmodules](.gitmodules) | 子模块注册与 URL 配置 |
-
-## AI 技能
-
-| 技能 | 位置 | 用途 |
-|------|------|------|
-| qtcloud-devops | `.agents/skills/qtcloud-devops/SKILL.md` | DevOps 流程：子模块管理、构建、测试、发布 |
