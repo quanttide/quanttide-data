@@ -7,6 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-09-28
+
+### Added
+- 根文档：`AGENTS.md`、`CONTRIBUTING.md`、`STATUS.md`
+- 新增子模块：`apps/qtdata`、`data/journal`、`data/profile`、`data/insight`、`data/roadmap`、`data/brochure`、`data/history`、`docs/bylaw`、`examples/default`、`packages/quanttide-data-toolkit`、`packages/quanttide-agent-toolkit`
+- `.gitmodules` 为所有子模块显式声明 `branch = main`
+- `apps/qtdata`、`apps/qtcloud-data`：Studio 前端（`studio/v0.1.0` 系列）
+
+### Changed
+- 重组 `data/` 内容分层：`journal/default` 降级迁入 `data/context/journal`；`journal/project-record` 迁入 `data/profile`
+- `README.md`、`STATUS.md`、`ROADMAP.md` 随子模块调整同步更新
+
+### Removed
+- 子模块 `examples/data-engineering`、`examples/big-data`
+- 子模块 `packages/toolkit`、`packages/quanttide-toolkit`
+
 ## [0.1.1] - 2026-07-08
 
 ### Added
@@ -73,7 +89,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Makefile for project automation
 - Python test fixtures module
 
-[Unreleased]: https://github.com/quanttide/quanttide-data/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/quanttide/quanttide-data/compare/v0.1.2...HEAD
+[0.1.2]: https://github.com/quanttide/quanttide-data/compare/v0.1.1...v0.1.2
 [0.1.1]: https://github.com/quanttide/quanttide-data/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/quanttide/quanttide-data/compare/0.0.3...v0.1.0
 [0.0.3]: https://github.com/quanttide/quanttide-data/compare/0.0.2...v0.0.3
