@@ -34,7 +34,6 @@
 
 ### examples/ — 实验室
 
-- `company` — 商业实体实验室
 - `default` — 实验室入口（实验性/原型项目）
 
 ### packages/ — 工具包

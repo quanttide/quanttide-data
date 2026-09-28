@@ -41,7 +41,6 @@
 
 | 子模块 | 版本 | commit |
 |--------|------|--------|
-| `company` | heads/main | 807a279 |
 | `default` | heads/main | 9561889 |
 
 ## packages/ — 工具包
