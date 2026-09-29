@@ -53,7 +53,7 @@ git submodule update --init --recursive
 | `apps/{name}` | 可部署应用 | `apps/qtdata` |
 | `data/{name}` | 数据仓库 | `data/journal` |
 | `docs/{name}` | 文档仓库 | `docs/tutorial` |
-| `examples/{name}` | 实验室项目 | `examples/default` |
+| `examples/{name}` | 实验室项目 | `examples/quanttide-data-lab` |
 | `packages/{name}` | 共享工具包 | `packages/quanttide-toolkit` |
 
 ### 更新子模块
