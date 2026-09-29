@@ -46,9 +46,9 @@
 	path = data/journal
 	url = https://github.com/quanttide/quanttide-journal-of-data-engineering.git
 	branch = main
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-data-engineering.git
+[submodule "examples/quanttide-data-lab"]
+	path = examples/quanttide-data-lab
+	url = https://github.com/quanttide/quanttide-data-lab.git
 	branch = main
 [submodule "packages/quanttide-data-toolkit"]
 	path = packages/quanttide-data-toolkit

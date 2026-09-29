@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-data-lab`（仓 quanttide-laboratory-of-data-engineering → quanttide-data-lab）
+
+
 ## [0.1.2] - 2026-09-28
 
 ### Added
