@@ -91,6 +91,10 @@ git push
 - **必须**：在子模块仓库独立提交推送，父仓库只更新引用
 - **提交即推送**：提交后默认推送远端
 
+### 独立对照原则
+
+工作论文仓（quanttide-essay-of-data-engineering，`docs/essay`）与实物仓（qtcloud-data，`apps/qtcloud-data`）互不引用，各自独立演化；两仓之间的对照、张力分析、桥梁性结论由报告仓（`data/report`）的报告承担。不提「论文标注参考实现」「产品回指方法论」一类打通引用的方案。
+
 ## 提交规则
 
 每次 commit 以后自动 push。
