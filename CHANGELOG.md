@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### 变更
+- `data/context` 的 `eassy/` 四份草稿迁入工作论文仓 `docs/essay`（spec/blueprint.md、spec/contract.md、intent/index.md、impl/catalog.md）
 
 - 实验室子模块改名：`examples/default` → `examples/quanttide-data-lab`（仓 quanttide-laboratory-of-data-engineering → quanttide-data-lab）
 
